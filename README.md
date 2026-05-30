@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Estou iniciando minha jornada como Desenvolvedor Back-end.
+Estou em transição de carreira para Desenvolvimento Back-end com foco em PHP e Laravel.
 
 Atualmente estou estudando:
 
