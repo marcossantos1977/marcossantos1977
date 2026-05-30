@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Marcos Santos 👋
 
-<!--
-**marcossantos1977/marcossantos1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Estou iniciando minha jornada como Desenvolvedor Back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando:
+
+- Lógica de Programação
+- PHP
+- Laravel
+- SQL
+- Git e GitHub
+
+## Objetivos
+
+- Aprender desenvolvimento Back-end
+- Construir projetos reais com Laravel
+- Criar um portfólio profissional
+- Conquistar minha primeira oportunidade na área de tecnologia
+
+## Tecnologias em estudo
+
+- PHP
+- Laravel
+- PostgreSQL
+- Git
+- GitHub
+- Docker (em breve)
+
+## Projetos
+
+🚧 Em construção...
+
+Os projetos serão adicionados conforme avanço nos estudos.
+
+## Contato
+
+GitHub: https://github.com/marcossantos1977
