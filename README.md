@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563eb,100:0f172a&text=Marcos%20Santos&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
 # Olá, eu sou Marcos Santos 👋
 
